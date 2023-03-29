@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\ACER\Documents\Môn học\Lập trình mạng\Cờ Caro\Caro\Caro\obj\Debug\Caro.Form1.resources
